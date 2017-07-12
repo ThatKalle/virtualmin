@@ -1,4 +1,3 @@
-
 # script_wordpress_desc()
 sub script_wordpress_desc
 {
